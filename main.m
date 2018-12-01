@@ -63,4 +63,5 @@ originallabel=c;
 
 pred_test=mytest(x_test,y_test,w1,b1,w_h1,b_h1);
 
-
+fprintf('The number is: ');
+pred_test
