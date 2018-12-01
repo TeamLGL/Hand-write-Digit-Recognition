@@ -1,4 +1,5 @@
 function[pred]= mytest(x_test,y_test,w,b,w_h,b_h)
+%preference:https://blog.csdn.net/yunyunyx/article/details/80473532
 %x_test:test samples pixel data
 %y_test:test samples label
 %w£ºweight of output layer

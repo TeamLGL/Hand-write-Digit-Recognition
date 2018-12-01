@@ -1,4 +1,5 @@
 function[w,b,w_h,b_h]=mytrain(x_train,y_train)
+%preference:https://blog.csdn.net/yunyunyx/article/details/80473532
 %train function:784-->hidden-->10
 %x_train:training samples data
 %y_train:training samples label
